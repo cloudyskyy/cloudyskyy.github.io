@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Official Sentiment Words Lists"
 date:   2021-02-21 21:05:13 +0000
 categories: jekyll update
 ---
