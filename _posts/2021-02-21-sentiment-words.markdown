@@ -6,4 +6,6 @@ categories: jekyll update
 ---
 ## sentiment words
 
-https://stackoverflow.com/questions/4188706/sentiment-analysis-dictionaries
+[sentiment-analysis-dictionaries][jekyll-docs]
+
+[jekyll-docs]: https://stackoverflow.com/questions/4188706/sentiment-analysis-dictionaries
