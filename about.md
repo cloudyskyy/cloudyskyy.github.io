@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
+I am currently a Ph.D student of Year 2022 under supervision of Prof.[Rui Xia](http://www.nustm.cn/member/rxia/index.html) in [Nanjing University of Science and Technology](https://www.njust.edu.cn/). I major in Computer Science, and research on Natural Language Processing (NLP).
