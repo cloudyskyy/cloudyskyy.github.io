@@ -16,11 +16,11 @@
 title: Zinong Yang
 email: znyang@njust.edu.cn
 description: > # this means to ignore newlines until "baseurl:"
-  Ph.D student of Nanjing University of Science and Technology.
+  Ph.D student of Year 2022 in Nanjing University of Science and Technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cloudyskyy.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  cloudyskyy
 
 # Build settings
 markdown: kramdown
